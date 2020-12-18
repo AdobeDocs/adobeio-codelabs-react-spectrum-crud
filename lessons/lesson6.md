@@ -159,6 +159,14 @@ Since todo list names are unique, we're using the `name` as `key` prop.  We're a
 
 ### Full component
 
+Finally, we'll just wrap the whole App inside the React Spectrum Provider with the default theme set to `light` which corresponds to the [Experience Cloud Shell](https://experience.adobe.com/) main content theme.
+
+```jsx
+<Provider theme={defaultTheme} colorScheme={`light`}>
+...
+</Provider>
+```
+
 See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todolist/blob/master/web-src/src/App.js).
 
 ![App](assets/app.png)
