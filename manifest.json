@@ -1,20 +1,42 @@
 {
-  "title": "CodeLab title",
-  "repository": "https://github.com/AdobeDocs/adobeio-codelabs-template",
-  "navigation": [{
-    "title": "Introduction",
-    "url": "/README"
-  }, {
-    "title": "Requirements",
-    "url": "/lessons/requirements"
-  }, {
-    "title": "Lesson 1: Bootstrap your app",
-    "url": "/lessons/lesson1"
-  }, {
-    "title": "Lesson 2: Write your app",
-    "url": "/lessons/lesson2"
-  }, {
-    "title": "Well done",
-    "url": "/lessons/welldone"
-  }]
+  "title": "Building a todo Firefly App with React Spectrum",
+  "repository": "https://github.com/AdobeDocs/adobeio-codelabs-react-spectrum-crud",
+  "navigation": [
+    {
+      "title": "Introduction",
+      "url": "/README"
+    },
+    {
+      "title": "Requirements",
+      "url": "/lessons/requirements"
+    },
+    {
+      "title": "Lesson 1: Create a New Firefly App with the React Spectrum template",
+      "url": "/lessons/lesson1"
+    },
+    {
+      "title": "Lesson 2: Setup Runtime actions",
+      "url": "/lessons/lesson2"
+    },
+    {
+      "title": "Lesson 3: Setup the CreateTodoList component",
+      "url": "/lessons/lesson3"
+    },
+    {
+      "title": "Lesson 4: Setup the Todo component",
+      "url": "/lessons/lesson4"
+    },
+    {
+      "title": "Lesson 5: Setup the TodoList component",
+      "url": "/lessons/lesson5"
+    },
+    {
+      "title": "Lesson 5: Bringing the pieces together to build the App",
+      "url": "/lessons/lesson6"
+    },
+    {
+      "title": "Well done",
+      "url": "/lessons/welldone"
+    }
+  ]
 }

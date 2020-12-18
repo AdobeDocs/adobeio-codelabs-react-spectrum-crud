@@ -5,7 +5,8 @@ This codelab is useful for anyone who are getting started with developing Firefl
 ### Required skills
 
 * **Required:** programming skills in any language
-* *Optional:* basic knowledge with Javascript and Node.js
+* **Required:** React basic knowledge see [React documentation](https://reactjs.org/docs/getting-started.html)
+* *Optional:* basic knowledge with Javascript and Node.js 
 
 ### Pre-requisites
 
@@ -15,10 +16,4 @@ If not already done, you should follow the below links to have your environment 
 * [Setting up Your Environment](https://github.com/AdobeDocs/project-firefly/blob/master/getting_started/setup.md)
 * [Creating your First Firefly App](https://github.com/AdobeDocs/project-firefly/blob/master/getting_started/first_app.md)
 
-### Codelab environment
-
-In addition to above pre-requisites, you'll need:
-
-* A
-* B
-* C
+Next: [Start the first lesson](/lessons/lesson1.md)
