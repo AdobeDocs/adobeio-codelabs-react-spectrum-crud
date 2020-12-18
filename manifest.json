@@ -1,5 +1,5 @@
 {
-  "title": "Building a todo Firefly App with React Spectrum",
+  "title": "Building a todo Firefly App with aio-lib-state and React Spectrum components",
   "repository": "https://github.com/AdobeDocs/adobeio-codelabs-react-spectrum-crud",
   "navigation": [
     {
@@ -31,7 +31,7 @@
       "url": "/lessons/lesson5"
     },
     {
-      "title": "Lesson 5: Bringing the pieces together to build the App",
+      "title": "Lesson 6: Bringing the pieces together to build the App",
       "url": "/lessons/lesson6"
     },
     {
