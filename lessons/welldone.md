@@ -11,5 +11,4 @@ You have learned:
 
 ### What's next ?
 
-Type checking React properties is already possible in JavaScript using `prop-types`. 
-If you want to go further and write Typed JavaScript inside a Firefly App for your Runtime actions and React app, we'll show you how to in the upcoming codelab **Using TypeScript to develop a Project Firefly app**.    
+Check out other useful codelabs for your projects at [Adobe I/O Codelabs website](https://adobedocs.github.io/adobeio-codelabs).    
