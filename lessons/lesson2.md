@@ -161,6 +161,6 @@ return {
 For every operation except `read`, we are using the `state.put()` function to update the `todolist` value.
 Additionally, we set the time to live option to `-1` so that the value of `todolist` won't expire.
 
-See the full action code [here](https://github.com/AdobeDocs/adobeio-samples-todolist/blob/master/actions/todolist/index.js).
+See the full action code [here](https://github.com/AdobeDocs/adobeio-samples-todoapp/blob/master/actions/todolist/index.js).
 
 [Next](lesson3.md)

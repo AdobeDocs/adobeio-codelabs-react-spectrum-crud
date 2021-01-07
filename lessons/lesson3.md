@@ -87,7 +87,7 @@ We'll prevent the default form submission behavior with `event.preventDefault()`
 Finally, we'll add the Flex layout to align the TextField with the Button to obtain a fully functional React component.
 Read more about React rendering [here](https://reactjs.org/docs/rendering-elements.html).
 
-See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todolist/blob/master/web-src/src/CreateTodoList.js).
+See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todoapp/blob/master/web-src/src/CreateTodoList.js).
 
 ![CreateTodoList](assets/createtodolist.png)
 

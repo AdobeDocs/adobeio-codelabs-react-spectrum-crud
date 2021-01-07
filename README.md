@@ -7,6 +7,6 @@ You'll learn:
 * How to use [aio-lib-state](https://github.com/adobe/aio-lib-state) as part of Runtime actions.
 * How to bind React Spectrum components to Runtime actions.
                                                    
-The project source code is available [here](https://github.com/adobedocs/adobeio-samples-todolist/).
+The project source code is available [here](https://github.com/adobedocs/adobeio-samples-todoapp/).
   
 Next: [Requirements](/lessons/requirements.md)  

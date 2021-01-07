@@ -167,7 +167,7 @@ Finally, we'll just wrap the whole App inside the React Spectrum Provider with t
 </Provider>
 ```
 
-See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todolist/blob/master/web-src/src/App.js).
+See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todoapp/blob/master/web-src/src/App.js).
 
 ![App](assets/app.png)
 

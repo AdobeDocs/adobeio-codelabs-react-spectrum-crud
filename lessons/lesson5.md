@@ -185,7 +185,7 @@ Confirming the operation will simply call the `onDelete` callback function passi
 
 Finally, we'll wrap the whole component inside a `Well` and use the Flex layout to verticall align the `Todo` items.
 
-See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todolist/blob/master/web-src/src/TodoList.js).
+See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todoapp/blob/master/web-src/src/TodoList.js).
 
 ![App](assets/todolist.png)
 

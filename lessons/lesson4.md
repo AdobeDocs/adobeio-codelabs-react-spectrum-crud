@@ -82,7 +82,7 @@ We'll do exactly the same for `Checkbox`.
 
 Finally, we're using the Flex layout to align the Checkbox with the TextField and we're done with our Todo component.
 
-See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todolist/blob/master/web-src/src/Todo.js).
+See the full component code [here](https://github.com/AdobeDocs/adobeio-samples-todoapp/blob/master/web-src/src/Todo.js).
 
 ![Todo](assets/todo.png)
 
